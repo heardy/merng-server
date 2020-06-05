@@ -1,5 +1,5 @@
 # MERNG (MERN + GraphQL)
-GraphQL server that uses Node and Express to communicate to a MongoDB Database (MERN + GraphQL) with React and Apollo for the client
+GraphQL server that uses Node and Express to communicate to MongoDB (MERN + GraphQL) with React and Apollo for the client
 
 Code base - https://github.com/hidjou/classsed-graphql-mern-apollo/
 
